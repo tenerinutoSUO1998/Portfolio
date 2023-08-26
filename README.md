@@ -1,7 +1,8 @@
-|Name|Value|
-|----|-----|
-|1111|11111|
-
-[Hello, world!](http://konvut.github.io/k50articles/)
-
-[I am GoFast](/GoFast/README.md)
+| Название проекта | Описание | Используемые библиотеки | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Исследование объявлений о продаже квартир](https://github.com/tenerinutoSUO1998/Portfolio/tree/main/Real_estate_research) | Определение рыночной стоимости объектов недвижимости. Установление параметров, влияющих на цену объектов. | *pandas, matplotlib, seaborn* |
+| [Анализ сервиса аренды самокатов GoFast](https://github.com/tenerinutoSUO1998/Portfolio/tree/main/GoFast) | Анализ данных и проверка гипотез, которые могут помочь бизнесу вырасти. | *pandas, numpy, matplotlib, datasets, stats, seaborn* |
+| [Мир компьютерных игр](https://github.com/tenerinutoSUO1998/Portfolio/tree/main/World_of_computer_games) | Необходимо выявить определяющие успешность игры закономерности. | *pandas, numpy, matplotlib, seaborn* |
+| [Procrastinate Pro+](https://github.com/tenerinutoSUO1998/Portfolio/tree/main/Procrastinate_Pro) | Изучение развлекательного приложения Procrastinate Pro+, для того чтобы определить почему компания терпит убытки. | *pandas, numpy, matplotlib, datasets, stats, seaborn, datetime* |
+| [A/B-тестирование](https://github.com/tenerinutoSUO1998/Portfolio/tree/main/AorB) | Анализ подготовленного списка гипотез для увеличения выручки и проведение A/A/B-теста. | *pandas, numpy, matplotlib, datasets, stats, seaborn, datetime* |
+| [Важен ли пользователям шрифт?](https://github.com/tenerinutoSUO1998/Portfolio/tree/main/Font) | Данные стартапа, который проедает продукты питания. Дизайнеры захотели поменять шрифты во всём приложении, а менеджеры испугались, что пользователям будет непривычно. Договорились принять решение по результатам A/A/B-теста. | *pandas, matplotlib, plotly, numpy, seaborn, warnings, stats, math* |
